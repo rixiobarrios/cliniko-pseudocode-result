@@ -1,4 +1,6 @@
 
+
+![download-2](https://github.com/rixiobarrios/cliniko-pseudocode-result/assets/55994508/6aacbd41-c141-4ca1-9676-1cd4849c876f)
 ## Cliniko
 
 ### Software developer - Reponse for application question
@@ -89,4 +91,4 @@ One final note, unfortunately due to the quantity of applications we receive, we
 
 Good luck!
 
-Note: Response for application question in ```script.js``` file.# cliniko-pseudocode-result
+Note: Response for application question in ```script.js``` file.
